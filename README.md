@@ -39,7 +39,7 @@
 Run the application:
 
 ```bash
-python pedrambot.py
+python Main.py
 ```
 
 - Enter the PIN code (default: `123123`) to access the chatbot.
