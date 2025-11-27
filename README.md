@@ -4,7 +4,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Na-2077/Uni_Project
+   git clone https://github.com/Na-2077/Uni_Project.git
    cd Uni_Project
    ```
 
